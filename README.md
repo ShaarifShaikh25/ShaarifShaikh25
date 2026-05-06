@@ -1,3 +1,4 @@
+# 💫 About Me:
 # 💫 Hi 👋, I'm Shaarif Shaikh
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
@@ -11,7 +12,7 @@ Email Me 👉 ✉️ **ri76shaarif@gmail.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Shaarif
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-# 💫 About Me:
+
 I'm Currently Working on ASG ecosystem platform as an intern.
 
 
